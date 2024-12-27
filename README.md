@@ -1,5 +1,5 @@
 # wazuh-project-lab
-![Wazuh](https://wroberts.me/wp-content/uploads/2022/11/wazuh-666x628.webp "Wazuh Dashboard")
+![Wazuh](wazuh-standard-featured-picture.png "Wazuh Dashboard")
 This guide aims to help you set up and create Wazuh dashboards for monitoring and managing security operations. The guide includes detailed instructions on installation, configuration, and use cases for Wazuh.
 
 ## Table of Contents
